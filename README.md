@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 # Cool-copiler-phase-one
 
@@ -53,7 +53,7 @@ Ferdowsi University of Mashhad Compiler Cool Basic Compiler
 Technologies and Tools Utilized in this Project
 
 
-- [![OpenJDK][OpenJDK-Shield]][OpenJDK-url]
+- [![OpenJDK][OpenJDK-Shield]][OpenJDK-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,10 +160,11 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
+<!-- OpenJDK -->
 [OpenJDK-Shield]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 
-[OpenJDK-url]: https://openjdk.org/
+[OpenJDK-URL]: https://openjdk.org/
 
