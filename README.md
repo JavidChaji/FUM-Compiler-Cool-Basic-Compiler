@@ -1,13 +1,10 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
-
-
 
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
@@ -45,21 +42,13 @@ Ferdowsi University of Mashhad Compiler Cool Basic Compiler
 
 
 
-
-
-
 ### Built With
 
 Technologies and Tools Utilized in this Project
 
-
 - [![OpenJDK][OpenJDK-Shield]][OpenJDK-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 
 
 
@@ -81,16 +70,12 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 
@@ -102,7 +87,6 @@ Javid Chaji - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.
 Project Link: [https://github.com/JavidChaji/FUM-Compiler-Cool-Basic-Compiler](https://github.com/JavidChaji/FUM-Compiler-Cool-Basic-Compiler)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -157,7 +141,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [License-URL]: https://github.com/javidchaji/FUM-Compiler-Cool-Basic-Compiler/blob/master/LICENSE
 
 
-<!-- Linkedin -->
+<!-- LinkedIn -->
 [LinkedIn-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 [Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
